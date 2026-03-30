@@ -17,12 +17,7 @@ This Python application allows you to create and display highly realistic, nativ
 1.  **Python**: Ensure you have Python 3.x installed on your system. You can download it from [python.org](https://www.python.org/downloads/).
 
 2.  **Clone the Repository (or download the script)**:
-    ```bash
-    git clone https://github.com/your-username/fake-windows-error-generator.git
-    cd fake-windows-error-generator
-    ```
-    *(Note: Replace `your-username/fake-windows-error-generator.git` with the actual repository URL once it's hosted.)*
-
+   
 3.  **No External Libraries Required for Native Dialogs**: The core functionality for spawning native Windows errors relies only on built-in Python modules (`tkinter`, `ctypes`, `platform`).
 
 ## 💡 Usage
